@@ -30,12 +30,11 @@ Este comando moverá o código inicial para o diretório app-example e criará u
 
 ## 📁 Estrutura de Pastas
 
-Join our community of developers creating universal apps.
-
 Uma breve explicação de como os arquivos do projeto estão organizados:
 
+```text
 ├── src/
-│   ├── assets/          # Imagens, ícones, logótipos e fontes
+│   ├── assets/          # Imagens, ícones, logotipos e fontes
 │   ├── components/      # Componentes visuais reutilizáveis
 │   ├── hooks/           # Custom Hooks personalizados do React
 │   ├── screens/         # Telas ou páginas principais da aplicação
@@ -45,11 +44,11 @@ Uma breve explicação de como os arquivos do projeto estão organizados:
 ├── .gitignore           # Ficheiros e pastas ignorados pelo Git (ex: node_modules)
 ├── package.json         # Dependências, metadados e scripts do projeto
 └── README.md            # Este ficheiro de documentação
+```
 
 - ## Saiba mais
 
 Para aprender mais sobre o desenvolvimento do seu projeto com o Expo, consulte os seguintes recursos:
 
-- [Documentação do Expo](https://docs.expo.dev/): Aprenda os fundamentos ou aprofunde-se em tópicos avançados com nossos. [guias](https://docs.expo.dev/guides).
 - [Documentação do Expo](https://docs.expo.dev/): Aprenda os fundamentos ou aprofunde-se em tópicos avançados com nossos [guias](https://docs.expo.dev/guides).
 
